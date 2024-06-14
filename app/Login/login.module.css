@@ -1,0 +1,25 @@
+.mainHeading{
+    text-shadow: 2px 2px 5px rgba(134, 134, 134, 0.18);
+}
+.subHead{
+    background-image: linear-gradient(to left top, #eb6c2d, #ed7c44, #ee8b59, #ee9a6f, #eda885);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.inputOverride{
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+.loginBtn{
+    background-image: linear-gradient(to left top, #eb6c2d, #ed7c44, #ee8b59, #ee9a6f, #eda885);
+
+    box-shadow: 4px 4px 4px darkgray;
+    border-radius: 5px;
+}
+.inputGroup{
+    box-shadow:5px 5px 10px rgba(128, 128, 128, 0.35);
+    border-radius: 5px;
+}
+
+

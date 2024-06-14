@@ -1,0 +1,28 @@
+.mainNav{
+    background: rgba(74, 74, 74, 0.27);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    z-index: 1000;
+}
+.contactBtn{
+    background-image: linear-gradient(to left top, #eb6c2d, #ed7c44, #ee8b59, #ee9a6f, #eda885);
+    box-shadow: 2px 2px 10px rgba(235, 108, 45, 0.73);
+}
+
+.subLogo{
+    color: #eb6c2d;
+
+}
+.logoutBtn{
+    background: orangered;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 7px;
+}
+.dropbox{
+    background: rgba(74, 74, 74, 0.27);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    z-index: 1000;
+
+}

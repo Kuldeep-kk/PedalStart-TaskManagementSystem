@@ -1,0 +1,25 @@
+.heroSection {
+    background: radial-gradient(circle at center, rgba(235, 108, 45, 0.25) 0%, transparent 50%);
+}
+
+
+.subText{
+    background-image: linear-gradient(to left top, #eb6c2d, #ed7c44, #ee8b59, #ee9a6f, #eda885);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.heroText{
+    word-spacing: 10px;
+    line-height: 1.3;
+}
+
+.floatingRobo{
+
+    animation: shake 3s infinite;
+}
+@keyframes shake {
+    0% { transform: translate(1px, 1px) ; }
+
+    50% { transform: translate(10px, 20px) ; }
+    100% { transform: translate(1px, 1px) ; }
+}

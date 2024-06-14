@@ -1,0 +1,11 @@
+.mainDiv{
+    background: rgba(69, 69, 69, 0.27);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(172, 170, 170, 0.35);
+}
+.desc{
+    background: rgba(90, 89, 89, 0.62);
+    border-radius: 7px;
+
+
+}

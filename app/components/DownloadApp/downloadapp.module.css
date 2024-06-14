@@ -1,0 +1,24 @@
+.mainDiv{
+    background: rgba(112, 128, 144, 0.27);
+   box-shadow: -4px -4px 5px #d3d7e4;
+
+}
+.Mob{
+    animation: shake2 3s infinite;
+}
+.mobs1,.mobs2,.mobs3,.mobs4,.mobs5{
+    animation: shake 3s infinite;
+}
+
+@keyframes shake {
+    0% { transform: translate(1px, 1px) ; }
+
+    50% { transform: translate(10px, 20px) ; }
+    100% { transform: translate(1px, 1px) ; }
+}
+@keyframes shake2 {
+    0% { transform: rotate(1deg) }
+
+    50% { transform: rotate(10deg) ; }
+    100% { transform: rotate(1deg); }
+}
