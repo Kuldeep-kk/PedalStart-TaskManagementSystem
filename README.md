@@ -40,7 +40,7 @@ This project is a Task Management Application that allows users to manage tasks 
   - NextAuth.js (for authentication with Google)
 
 - **Database:**
-  - TBD (Specify your database choice here, if applicable)
+  - MongoDb
 
 ## Setup Instructions
 
